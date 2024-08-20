@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "612618064022",
+    "project_id": "gestionmaestrosplitter",
+    "storage_bucket": "gestionmaestrosplitter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612618064022:android:688df94b47654fe7ee32b7",
+        "android_client_info": {
+          "package_name": "com.example.split"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVelIXBMn_tJL08Y4KRhIMsYz5hM4uc3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

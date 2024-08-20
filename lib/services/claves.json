@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gestionmaestrosplitter",
+  "private_key_id": "6c8afb79f463cb26d92578c35331e9e1c07f4b15",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDEH+a9ENC4NlEB\nms4zrUfjy2BKdHzPNMV/gzNfx4jIA8OirzR1LcylYhGVoyYSe7ZNj34Y6WMJEOU5\n1l5Xr+HkILFj6xx3QddG0LER34NK14mTaMQOFFMJEy0nbBmK/Wgp7U8n38amHhUn\ntoEDuQarsVHX1l3XzH92AQ/VTuNPZGTVygk3Zdmij+ZQdmVCcIXL+J+apdjJaeua\nGdTvH/3ZEBUe8kXGoYq/GG3VSYnny59rJ/GoEzzA7Mo2gxilJFP5id+y94DBmh1F\njN/9WdyA058xVycLJWs3L1zf6+tL4wJJbFEfW6dsGBNFdL6l8Z5Rm2BgT00j4rHV\nDb3BJq0nAgMBAAECggEAOBv+WdndNM6JV2GwG5W4CwIszrBL4sXwuN3SzVSbG8oD\n5t+kLOAI+8m2SS6vXjtZeRAT3dGrfTUBt43OWNzfTfJSfckOUEocakybVAczmy5V\n1D/1UyfaZ66+TNh+6EY+Tjxv2HMLdIwHtmBewa9mKqmkxhC0sV/2mU6NdpPGsXgA\nzsxgRe6wkTDW1C9DoYmfjBan8aYFx/vFW41mewo0zIATtITxUNW/v/ZvKvRJ8GlJ\nD9/EPoJu1k2xL/f1uxe/OWwyYnZT4jhwtTFyi8IcRQ3ng6M7cN+/Lvr/lDcLVYvG\nqTL0/7ivp5ULHOAY9zbkgOGo5UUOBx1NEg8ALP4/yQKBgQD7+dUzLC2zut7oC5Gx\nFjS3fd1n3jzv6V/CSZdSrlr8pmxi+t2wW9MdnxPGeagwpn69iaiwzhxfLefc/yIF\nTueaU839DuQJwAYGTYw1OAV0rvjnW0N0eftEq55MzdmdrIiFC345eHLrjlngbJOA\nSPdpLRmLHYiXLhcJ/uwxTY5eaQKBgQDHQbqBrGUYlmYHABWUaQC0ZrGgXC+SabyM\nkoyZMuiTI6067CAjDo+jekDBauOM0MbyX1F4ioSSkIGuOsimVrOlAey9qh8pTyQF\nakSuAQIEzQaBLE9x7dKp6T+/U5gKXrViyciDxC/bj0CBwMV5YkUmVpfxAZEb7/J/\nc2L0FwtdDwKBgECtUhI+hsSZdNnvDkh8QK/QuOIOY2nZZ2EBbrwkUOqE9VE6v2ij\nST9TM8pAM/G46tNP4GLxpMqxh9BsFJl0NXKhjEAmcFYoWeOISDLo3E2lE/KetGPT\nY7Gus4VXWUJlpO0xlAbAag8YjO1UMVA+anMuxl21CPh1Nii0rH/DPoXxAoGBAJCe\nRg2D4EQ+NIL0LrVumJJWzqkC/4wWrkCgxOcUKfVROZPAeXq4QMx4GLPJLqqvhRW4\n1NrWPm5Z76VTCPqhhvVGNltaNA+5Xv2HKZ3ZIWv2mrf6PxcDc5jar+ffdkRghOnU\nZnIsXEfQ6xLBpRH6nxG6W8ESUA2k065pQvLCHv9FAoGAd6W2ZqcbN5EOql/whTSK\nIneBcW5lJs/TMVxowkt8YoEQNa3kLUl7t/120HtzL4e5B1cvIvTX6fxcou18DaaJ\n3XcocIssfR9AFnXifauDZEiX2EIRKV7x78Ra3A+XcVo6DE8F03EhwgQWCb+r6o3k\nKvHE4e74/6LWxKXSqzx0oQA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-3ym18@gestionmaestrosplitter.iam.gserviceaccount.com",
+  "client_id": "108814966326449163793",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-3ym18%40gestionmaestrosplitter.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
